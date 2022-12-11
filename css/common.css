@@ -58,3 +58,12 @@ button {
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+/* TASK #10 */
+
+#boxes {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
